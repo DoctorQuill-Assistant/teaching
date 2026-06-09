@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>French Lesson 0001: First polite French for ordering dinner</title>
+  <style>
+    :root{--bg:#fffaf5;--card:#ffffff;--ink:#1f2937;--accent:#9a3412;--soft:#fed7aa;--ok:#14532d}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:40px auto;padding:0 20px;line-height:1.65;color:var(--ink);background:var(--bg)}
+    h1,h2,h3{color:#7c2d12}
+    .card{background:var(--card);border:1px solid var(--soft);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .phrase{font-size:1.2rem;font-weight:700}
+    .muted{color:#4b5563}
+    .practice{background:#fff7ed}
+    .success{color:var(--ok);font-weight:700}
+    a{color:var(--accent)}
+    button{background:var(--accent);color:white;border:none;border-radius:10px;padding:10px 14px;cursor:pointer}
+    input{padding:10px;border:1px solid #d1d5db;border-radius:10px;width:100%;max-width:420px}
+  </style>
+</head>
+<body>
+  <h1>French Lesson 0001: First polite French for ordering dinner</h1>
+  <p>This lesson teaches one small, useful skill: how to begin a restaurant interaction politely and order one item with confidence.</p>
+
+  <div class="card">
+    <h2>Your win for today</h2>
+    <p>By the end of this lesson, you should be able to say:</p>
+    <p class="phrase">Bonjour. Je voudrais un steak-frites, s’il vous plaît.</p>
+    <p class="muted">Hello. I would like a steak and fries, please.</p>
+  </div>
+
+  <div class="card">
+    <h2>The 3 phrases to learn</h2>
+    <ol>
+      <li><span class="phrase">Bonjour</span> — hello / good day. In French, starting with <em>bonjour</em> is especially important when beginning an interaction. <a href="https://www.lawlessfrench.com/vocabulary/greetings/">Source</a>.</li>
+      <li><span class="phrase">Je voudrais…</span> — I would like… A polite way to order. <a href="https://www.lawlessfrench.com/vocabulary/restaurant/">Source</a>.</li>
+      <li><span class="phrase">S’il vous plaît</span> — please.</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Mini pattern</h2>
+    <p><strong>Bonjour. Je voudrais [food], s’il vous plaît.</strong></p>
+    <p>Examples:</p>
+    <ul>
+      <li>Bonjour. Je voudrais un café, s’il vous plaît.</li>
+      <li>Bonjour. Je voudrais une soupe, s’il vous plaît.</li>
+      <li>Bonjour. Je voudrais un steak-frites, s’il vous plaît.</li>
+    </ul>
+  </div>
+
+  <div class="card practice">
+    <h2>Quick practice</h2>
+    <p>Type the missing polite opening word:</p>
+    <p>_____ . Je voudrais un café, s’il vous plaît.</p>
+    <input id="answer" placeholder="Type the French word here">
+    <p><button onclick="check()">Check answer</button></p>
+    <p id="result" aria-live="polite"></p>
+  </div>
+
+  <div class="card">
+    <h2>Real-world note</h2>
+    <p>Use <strong>bonjour</strong> when starting the interaction. If it is evening, <strong>bonsoir</strong> is also used. To wish someone a good day when leaving, say <strong>bonne journée</strong> rather than <strong>bonjour</strong>. <a href="https://www.lawlessfrench.com/vocabulary/greetings/">Source</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>Next useful phrase</h2>
+    <p>When you are ready to pay: <strong>L’addition, s’il vous plaît.</strong></p>
+    <p>See also: <a href="../reference/0001-core-phrases.html">Core polite phrases reference</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>Ask your teacher</h2>
+    <p>If anything is unclear, ask the agent a follow-up question and request another short French drill.</p>
+  </div>
+
+  <script>
+    function check(){
+      const value = document.getElementById('answer').value.trim().toLowerCase();
+      const result = document.getElementById('result');
+      if(value === 'bonjour'){
+        result.textContent = 'Correct — bonjour is the right polite opening.';
+        result.className = 'success';
+      } else {
+        result.textContent = 'Not quite. The answer is “bonjour”.';
+        result.className = 'muted';
+      }
+    }
+  </script>
+</body>
+</html>
