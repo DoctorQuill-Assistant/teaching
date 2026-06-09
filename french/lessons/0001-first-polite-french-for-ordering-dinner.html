@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>French Lesson 0001: First polite French for ordering dinner</title>
   <style>
-    :root{--bg:#fffaf5;--card:#ffffff;--ink:#1f2937;--accent:#9a3412;--soft:#fed7aa;--ok:#14532d}
+    :root{--bg:#fffaf5;--card:#ffffff;--ink:#1f2937;--accent:#9a3412;--soft:#fed7aa;--ok:#14532d;--warn:#92400e}
     body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:40px auto;padding:0 20px;line-height:1.65;color:var(--ink);background:var(--bg)}
     h1,h2,h3{color:#7c2d12}
     .card{background:var(--card);border:1px solid var(--soft);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 1px 2px rgba(0,0,0,.04)}
@@ -13,9 +13,11 @@
     .muted{color:#4b5563}
     .practice{background:#fff7ed}
     .success{color:var(--ok);font-weight:700}
+    .warn{color:var(--warn);font-weight:700}
+    .options button,.check-btn{background:var(--accent);color:white;border:none;border-radius:10px;padding:10px 14px;cursor:pointer;margin:6px 6px 0 0}
     a{color:var(--accent)}
-    button{background:var(--accent);color:white;border:none;border-radius:10px;padding:10px 14px;cursor:pointer}
     input{padding:10px;border:1px solid #d1d5db;border-radius:10px;width:100%;max-width:420px}
+    code{background:#fff7ed;padding:2px 6px;border-radius:6px}
   </style>
 </head>
 <body>
@@ -39,6 +41,14 @@
   </div>
 
   <div class="card">
+    <h2>Pronunciation support</h2>
+    <p><span class="phrase">Bonjour</span><br>IPA: <code>/bɔ̃.ʒuʁ/</code><br>Say it roughly like: <strong>bohn-ZHOOR</strong></p>
+    <p><span class="phrase">Je voudrais</span><br>IPA: <code>/ʒə vu.dʁɛ/</code><br>Say it roughly like: <strong>zhuh voo-DREH</strong></p>
+    <p><span class="phrase">S’il vous plaît</span><br>IPA: <code>/sil vu plɛ/</code><br>Say it roughly like: <strong>seel voo pleh</strong></p>
+    <p class="muted">Tip: the French <strong>r</strong> usually comes from the back of the throat. In <strong>bon-</strong>, do not strongly pronounce an English N at the end — it is a nasal sound.</p>
+  </div>
+
+  <div class="card">
     <h2>Mini pattern</h2>
     <p><strong>Bonjour. Je voudrais [food], s’il vous plaît.</strong></p>
     <p>Examples:</p>
@@ -50,12 +60,38 @@
   </div>
 
   <div class="card practice">
-    <h2>Quick practice</h2>
+    <h2>Quiz 1: Fill in the blank</h2>
     <p>Type the missing polite opening word:</p>
     <p>_____ . Je voudrais un café, s’il vous plaît.</p>
-    <input id="answer" placeholder="Type the French word here">
-    <p><button onclick="check()">Check answer</button></p>
-    <p id="result" aria-live="polite"></p>
+    <input id="answer1" placeholder="Type the French word here">
+    <p><button class="check-btn" onclick="checkBlank()">Check answer</button></p>
+    <p id="result1" aria-live="polite"></p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 2: Translation</h2>
+    <p>How do you say: <strong>I would like a soup, please.</strong></p>
+    <input id="answer2" placeholder="Type your French answer here">
+    <p><button class="check-btn" onclick="checkTranslation()">Check answer</button></p>
+    <p id="result2" aria-live="polite"></p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 3: Multiple choice</h2>
+    <p>Which phrase means <strong>The bill, please</strong>?</p>
+    <div class="options">
+      <button onclick="pickMcq('a')">A. Bonjour, s’il vous plaît.</button>
+      <button onclick="pickMcq('b')">B. L’addition, s’il vous plaît.</button>
+      <button onclick="pickMcq('c')">C. Je voudrais, bonsoir.</button>
+    </div>
+    <p id="result3" aria-live="polite"></p>
+  </div>
+
+  <div class="card">
+    <h2>Speaking drill</h2>
+    <p>Say this out loud 3 times, slowly first and then naturally:</p>
+    <p class="phrase">Bonjour. Je voudrais une soupe, s’il vous plaît.</p>
+    <p class="muted">Focus on smooth rhythm rather than perfect accent.</p>
   </div>
 
   <div class="card">
@@ -71,19 +107,54 @@
 
   <div class="card">
     <h2>Ask your teacher</h2>
-    <p>If anything is unclear, ask the agent a follow-up question and request another short French drill.</p>
+    <p>If anything is unclear, ask the agent a follow-up question and request another short French quiz.</p>
   </div>
 
   <script>
-    function check(){
-      const value = document.getElementById('answer').value.trim().toLowerCase();
-      const result = document.getElementById('result');
+    function normalize(value){
+      return value
+        .toLowerCase()
+        .replace(/[’']/g, "'")
+        .replace(/\s+/g, ' ')
+        .trim();
+    }
+
+    function checkBlank(){
+      const value = normalize(document.getElementById('answer1').value);
+      const result = document.getElementById('result1');
       if(value === 'bonjour'){
         result.textContent = 'Correct — bonjour is the right polite opening.';
         result.className = 'success';
       } else {
         result.textContent = 'Not quite. The answer is “bonjour”.';
-        result.className = 'muted';
+        result.className = 'warn';
+      }
+    }
+
+    function checkTranslation(){
+      const value = normalize(document.getElementById('answer2').value);
+      const result = document.getElementById('result2');
+      const answers = [
+        "je voudrais une soupe, s'il vous plaît",
+        "bonjour. je voudrais une soupe, s'il vous plaît"
+      ];
+      if(answers.includes(value)){
+        result.textContent = 'Correct — that is a good polite answer.';
+        result.className = 'success';
+      } else {
+        result.textContent = 'Suggested answer: “Je voudrais une soupe, s’il vous plaît.”';
+        result.className = 'warn';
+      }
+    }
+
+    function pickMcq(choice){
+      const result = document.getElementById('result3');
+      if(choice === 'b'){
+        result.textContent = 'Correct — “L’addition, s’il vous plaît.” means “The bill, please.”';
+        result.className = 'success';
+      } else {
+        result.textContent = 'Not quite. The correct answer is B: “L’addition, s’il vous plaît.”';
+        result.className = 'warn';
       }
     }
   </script>
