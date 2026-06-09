@@ -5,11 +5,18 @@
 
 Used for beginner introduction patterns such as **Tudo bem?**, **Como estás? / Como está?**, and useful self-introduction structures in European Portuguese.
 
-2. FluentU, "Hello in Portuguese: 25 Greetings for Any Situation"
-   https://www.fluentu.com/blog/portuguese/hello-in-portuguese/
+2. Practice Portuguese, "Asking For The Bill in Portuguese"
+   https://www.practiceportuguese.com/videos/asking-for-the-bill-in-portuguese/
 
-Used as a cross-check for common greeting forms such as **olá**, **bom dia**, **boa tarde**, **boa noite**, and leave-taking phrases.
+Used to cross-check restaurant and payment phrases such as **A conta, por favor**, **Como vai pagar?**, and payment vocabulary.
 
-3. General beginner Portuguese usage cross-check
+3. Practice Portuguese, "Tips for Making Restaurant Reservations in Portugal"
+   https://www.practiceportuguese.com/videos/tips-for-making-restaurant-reservations-in-portugal/
 
-Used to keep the lesson focused on high-frequency greetings, politeness, and beginner-safe introduction phrases.
+Used to cross-check restaurant wording and context for dining in Portugal.
+
+4. Portuguese Lab, "Speaking - ordering at the restaurant in Portuguese" and restaurant category index
+   https://www.portugueselab.com/podcast/064-ordering-in-portuguese
+   https://www.portugueselab.com/podcast/category/Restaurant
+
+Used as a cross-check for high-frequency beginner restaurant phrases and European Portuguese restaurant context.
