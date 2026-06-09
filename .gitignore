@@ -1,0 +1,17 @@
+# Runtime/private operational state
+.env
+*.token
+*.secret
+codex.json
+.DS_Store
+
+# Nanobot/private state if accidentally created here
+data/
+*.progress.json
+*.report.md
+.missions-private/
+
+# Dependency/build noise
+node_modules/
+__pycache__/
+.pytest_cache/
