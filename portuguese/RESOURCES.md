@@ -20,3 +20,8 @@ Used to cross-check restaurant wording and context for dining in Portugal.
    https://www.portugueselab.com/podcast/category/Restaurant
 
 Used as a cross-check for high-frequency beginner restaurant phrases and European Portuguese restaurant context.
+
+5. General beginner European Portuguese conversation patterns
+   https://www.practiceportuguese.com/learning-notes/introduce-yourself-in-portuguese/
+
+Used to support basic conversation patterns such as greetings, introductions, **Tudo bem?**, **Como se chama?**, **De onde é?**, and repair phrases for beginner conversation.
