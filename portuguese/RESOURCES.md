@@ -1,27 +1,24 @@
-# Resources
+# Portuguese Resources
 
-1. Practice Portuguese, "Introducing Yourself in Portuguese"
-   https://www.practiceportuguese.com/learning-notes/introduce-yourself-in-portuguese/
+## Knowledge
 
-Used for beginner introduction patterns such as **Tudo bem?**, **Como estás? / Como está?**, and useful self-introduction structures in European Portuguese.
+- [Practice Portuguese: "Introducing Yourself in Portuguese"](https://www.practiceportuguese.com/learning-notes/introduce-yourself-in-portuguese/)
+  Use for beginner introduction patterns, greetings, self-introduction structures, and common conversation starters in European Portuguese.
 
-2. Practice Portuguese, "Asking For The Bill in Portuguese"
-   https://www.practiceportuguese.com/videos/asking-for-the-bill-in-portuguese/
+- [Practice Portuguese: "Asking For The Bill in Portuguese"](https://www.practiceportuguese.com/videos/asking-for-the-bill-in-portuguese/)
+  Use for polite phrasing and cross-checking practical spoken European Portuguese in everyday service interactions.
 
-Used to cross-check restaurant and payment phrases such as **A conta, por favor**, **Como vai pagar?**, and payment vocabulary.
+- [Practice Portuguese: "Tips for Making Restaurant Reservations in Portugal"](https://www.practiceportuguese.com/videos/tips-for-making-restaurant-reservations-in-portugal/)
+  Use for real-world wording, politeness, and conversational rhythm in Portugal.
 
-3. Practice Portuguese, "Tips for Making Restaurant Reservations in Portugal"
-   https://www.practiceportuguese.com/videos/tips-for-making-restaurant-reservations-in-portugal/
+- [Portuguese Lab: "Speaking - ordering at the restaurant in Portuguese"](https://www.portugueselab.com/podcast/064-ordering-in-portuguese)
+  Use for cross-checking high-frequency beginner phrases and spoken European Portuguese context.
 
-Used to cross-check restaurant wording and context for dining in Portugal.
+## Wisdom (Communities)
 
-4. Portuguese Lab, "Speaking - ordering at the restaurant in Portuguese" and restaurant category index
-   https://www.portugueselab.com/podcast/064-ordering-in-portuguese
-   https://www.portugueselab.com/podcast/category/Restaurant
+- [Practice Portuguese community](https://www.practiceportuguese.com/)
+  Use for ongoing exposure to learner-focused European Portuguese and reinforcement beyond single lessons.
 
-Used as a cross-check for high-frequency beginner restaurant phrases and European Portuguese restaurant context.
+## Gaps
 
-5. General beginner European Portuguese conversation patterns
-   https://www.practiceportuguese.com/learning-notes/introduce-yourself-in-portuguese/
-
-Used to support basic conversation patterns such as greetings, introductions, **Tudo bem?**, **Como se chama?**, **De onde é?**, and repair phrases for beginner conversation.
+- A strong, dedicated source for beginner European Portuguese small-talk dialogues beyond introductions would improve future lessons.

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portuguese Lesson 1 — Basic Conversations</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f1e8;
+      --paper: #fffdf9;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --accent: #0f766e;
+      --accent-2: #b45309;
+      --line: #e7dccb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+      background: linear-gradient(180deg, #efe7d7 0%, var(--bg) 180px);
+      color: var(--ink);
+    }
+    main {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 28px 18px 56px;
+    }
+    .hero, .card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      box-shadow: 0 12px 30px rgba(0,0,0,.06);
+    }
+    .hero { padding: 28px; margin-bottom: 18px; }
+    .card { padding: 22px; margin: 16px 0; }
+    h1, h2, h3 { line-height: 1.15; margin-top: 0; }
+    p, li { font-size: 1.05rem; line-height: 1.6; }
+    .eyebrow { color: var(--accent); font-weight: 700; text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; }
+    .muted { color: var(--muted); }
+    .pt { color: var(--accent); font-weight: 700; }
+    .en { color: var(--accent-2); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+    ul { padding-left: 22px; }
+    .phrase { padding: 10px 0; border-bottom: 1px solid #eee4d6; }
+    .phrase:last-child { border-bottom: 0; }
+    .dialogue p { margin: 8px 0; }
+    .practice { background: #fff7ed; border-left: 4px solid var(--accent-2); padding: 14px 16px; border-radius: 10px; }
+    a { color: var(--accent); }
+    code { background:#f3efe7; padding:2px 6px; border-radius:6px; }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <div class="eyebrow">Portuguese • Lesson 1</div>
+      <h1>Basic conversations</h1>
+      <p>In this lesson, you will learn how to survive a short, polite beginner conversation in European Portuguese: greet someone, introduce yourself, ask one simple question, and recover when you do not understand.</p>
+      <p class="muted">Mission link: practical real-world Portuguese for short everyday interactions.</p>
+      <p><strong>Ask follow-up questions any time.</strong> Your teacher can explain any phrase, pronunciation point, or cultural detail that feels unclear.</p>
+    </section>
+
+    <section class="card">
+      <h2>What success looks like</h2>
+      <ul>
+        <li>Say hello and ask how someone is.</li>
+        <li>Say your name.</li>
+        <li>Ask where someone is from.</li>
+        <li>Say you speak only a little Portuguese.</li>
+        <li>Ask for repetition instead of freezing.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>The 8 phrases to memorize first</h2>
+      <div class="phrase"><span class="pt">Olá.</span> <span class="en">= Hello.</span></div>
+      <div class="phrase"><span class="pt">Tudo bem?</span> <span class="en">= How are you?</span></div>
+      <div class="phrase"><span class="pt">O meu nome é Quill.</span> <span class="en">= My name is Quill.</span></div>
+      <div class="phrase"><span class="pt">De onde é?</span> <span class="en">= Where are you from? (formal)</span></div>
+      <div class="phrase"><span class="pt">Falo um pouco de português.</span> <span class="en">= I speak a little Portuguese.</span></div>
+      <div class="phrase"><span class="pt">Não percebo.</span> <span class="en">= I don’t understand.</span></div>
+      <div class="phrase"><span class="pt">Pode repetir, por favor?</span> <span class="en">= Can you repeat, please?</span></div>
+      <div class="phrase"><span class="pt">Muito prazer.</span> <span class="en">= Nice to meet you.</span></div>
+    </section>
+
+    <section class="card">
+      <h2>How a basic conversation flows</h2>
+      <div class="grid">
+        <div>
+          <h3>1. Open</h3>
+          <p><span class="pt">Olá.</span></p>
+          <p><span class="pt">Tudo bem?</span></p>
+        </div>
+        <div>
+          <h3>2. Introduce yourself</h3>
+          <p><span class="pt">O meu nome é Quill.</span></p>
+          <p><span class="pt">Falo um pouco de português.</span></p>
+        </div>
+        <div>
+          <h3>3. Keep it going</h3>
+          <p><span class="pt">De onde é?</span></p>
+          <p><span class="pt">Muito prazer.</span></p>
+        </div>
+        <div>
+          <h3>4. Repair</h3>
+          <p><span class="pt">Não percebo.</span></p>
+          <p><span class="pt">Pode repetir, por favor?</span></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="card dialogue">
+      <h2>Mini dialogue</h2>
+      <p><strong>A:</strong> <span class="pt">Olá. Tudo bem?</span></p>
+      <p><strong>B:</strong> <span class="pt">Tudo bem.</span></p>
+      <p><strong>A:</strong> <span class="pt">O meu nome é Quill.</span></p>
+      <p><strong>B:</strong> <span class="pt">Muito prazer.</span></p>
+      <p><strong>A:</strong> <span class="pt">Falo um pouco de português.</span></p>
+      <p><strong>B:</strong> <span class="pt">Muito bem!</span></p>
+      <p><strong>A:</strong> <span class="pt">Não percebo. Pode repetir, por favor?</span></p>
+    </section>
+
+    <section class="card">
+      <h2>Pronunciation confidence hints</h2>
+      <ul>
+        <li><span class="pt">tudo bem</span> ≈ “TOO-doo BANG”</li>
+        <li><span class="pt">percebo</span> ≈ “pair-SAY-boo”</li>
+        <li><span class="pt">repetir</span> ≈ “reh-peh-TEER”</li>
+        <li><span class="pt">prazer</span> ≈ “prah-ZEHR”</li>
+      </ul>
+      <p class="muted">These are confidence approximations, not exact phonetics.</p>
+    </section>
+
+    <section class="card">
+      <h2>Quick practice</h2>
+      <div class="practice">
+        <p>Translate these into Portuguese:</p>
+        <ol>
+          <li>Hello.</li>
+          <li>My name is Quill.</li>
+          <li>I speak a little Portuguese.</li>
+          <li>I don’t understand.</li>
+          <li>Can you repeat, please?</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Review and next step</h2>
+      <p>Open the companion quick-reference sheet here:</p>
+      <p><a href="../reference/0001-basic-conversation-phrases.html">Basic conversation phrases reference</a></p>
+      <p class="muted">Suggested local opening command: <code>xdg-open lessons/0001-basic-conversations.html</code></p>
+    </section>
+
+    <section class="card">
+      <h2>Sources</h2>
+      <ul>
+        <li><a href="https://www.practiceportuguese.com/learning-notes/introduce-yourself-in-portuguese/">Practice Portuguese — Introducing Yourself in Portuguese</a></li>
+        <li><a href="https://www.practiceportuguese.com/videos/tips-for-making-restaurant-reservations-in-portugal/">Practice Portuguese — Tips for Making Restaurant Reservations in Portugal</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
