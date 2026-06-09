@@ -22,3 +22,4 @@
 ## Gaps
 
 - A strong, dedicated source for beginner European Portuguese small-talk dialogues beyond introductions would improve future lessons.
+- A strong source with consistent learner-friendly pronunciation help for European Portuguese would improve future quiz-first lessons.

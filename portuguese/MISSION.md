@@ -13,6 +13,8 @@ Learn beginner European Portuguese for practical real-world situations, especial
 - Beginner level
 - Focus on practical spoken Portuguese
 - Prefer short lessons with immediately usable phrases
+- Prefer quiz-driven lessons with active recall
+- Include simple pronunciation guidance for key phrases
 - European Portuguese is the main reference
 
 ## Out of scope
