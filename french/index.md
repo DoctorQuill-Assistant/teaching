@@ -1,3 +1,16 @@
+# French lessons
+
+Goal: help the user build practical, confidence-building French for real situations.
+
+## Starter lessons
+
+1. [Greetings and introductions](./greetings-and-introductions.md)
+2. [Numbers and time basics](./numbers-and-time.md)
+3. [Asking for help and understanding replies](./asking-for-help.md)
+4. [Order dinner in French](./index.md#order-dinner-in-french)
+
+---
+
 # Order dinner in French
 
 Goal: help the user handle a simple dinner order in French with confidence.
