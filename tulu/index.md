@@ -34,3 +34,4 @@ Bias lessons toward:
 ## Current sequence
 
 1. Greetings and introductions
+2. Everyday polite phrases
