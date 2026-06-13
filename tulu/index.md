@@ -35,3 +35,4 @@ Bias lessons toward:
 
 1. Greetings and introductions
 2. Everyday polite phrases
+3. Numbers
