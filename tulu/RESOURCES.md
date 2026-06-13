@@ -9,3 +9,4 @@ Usage guidance:
 - treat online Tulu resources as helpful but inconsistent references
 - cross-check high-value beginner phrases before baking them into lessons when possible
 - use learner-friendly romanized forms and lightweight pronunciation approximations
+- avoid glossing `kusal` as “fine” in self-introductions; prefer `Yān ushar ulle` or `Yān saukya ulle` for “I am fine”
