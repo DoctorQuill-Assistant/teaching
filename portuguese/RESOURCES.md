@@ -19,6 +19,13 @@
 - [Practice Portuguese community](https://www.practiceportuguese.com/)
   Use for ongoing exposure to learner-focused European Portuguese and reinforcement beyond single lessons.
 
+## Lesson Design Notes
+
+- Keep new vocabulary to a maximum of 3 to 4 items per lesson.
+- Prefer reusing vocabulary from earlier lessons instead of introducing many new words at once.
+- Optimize for low-overwhelm, high-repetition practice.
+- If a topic naturally needs more words, split it into multiple smaller lessons.
+
 ## Gaps
 
 - A strong, dedicated source for beginner European Portuguese small-talk dialogues beyond introductions would improve future lessons.

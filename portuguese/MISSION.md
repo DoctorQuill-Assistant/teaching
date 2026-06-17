@@ -15,6 +15,8 @@ Learn beginner European Portuguese for practical real-world situations, especial
 - Prefer short lessons with immediately usable phrases
 - Prefer quiz-driven lessons with active recall
 - Include simple pronunciation guidance for key phrases
+- Keep new vocabulary to 3 to 4 items maximum per lesson when possible
+- Reuse earlier vocabulary aggressively to reduce overwhelm
 - European Portuguese is the main reference
 
 ## Out of scope
