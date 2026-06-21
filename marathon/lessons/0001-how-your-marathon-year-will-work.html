@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marathon Lesson 0001: How your marathon year will work</title>
+  <style>
+    :root{--bg:#f7faf7;--card:#ffffff;--ink:#1f2937;--accent:#166534;--soft:#dcfce7;--muted:#4b5563;--warn:#92400e;--ok:#14532d}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:40px auto;padding:0 20px;line-height:1.65;color:var(--ink);background:var(--bg)}
+    h1,h2,h3{color:#14532d}
+    .card{background:var(--card);border:1px solid var(--soft);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .phrase{font-size:1.15rem;font-weight:700}
+    .muted{color:var(--muted)}
+    .practice{background:#f0fdf4}
+    .tip{background:#fffbeb;border-left:4px solid #f59e0b;padding:14px 16px;border-radius:10px}
+    .success{color:var(--ok);font-weight:700}
+    .warn{color:var(--warn);font-weight:700}
+    .check-btn{background:var(--accent);color:white;border:none;border-radius:10px;padding:10px 14px;cursor:pointer;margin-top:8px}
+    input{padding:10px;border:1px solid #d1d5db;border-radius:10px;width:100%;max-width:420px}
+    code{background:#ecfdf5;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Marathon Lesson 0001: How your marathon year will work</h1>
+  <p>This first lesson gives you the big picture. The goal is not to train like a professional. The goal is to build enough consistency and durability to finish your marathon comfortably and confidently.</p>
+
+  <div class="card">
+    <h2>Your objective for today</h2>
+    <p>Understand the 4 main parts of your marathon year and what each kind of run is supposed to do.</p>
+    <p class="phrase">Consistency first. Specific marathon work later.</p>
+  </div>
+
+  <div class="card">
+    <h2>Your real goal</h2>
+    <p>Your primary goal is simple: <strong>finish a marathon comfortably and healthy</strong>.</p>
+    <p>A nice pace goal can still exist in the background, but your best chance of getting a decent pace is by becoming durable first.</p>
+    <ul>
+      <li>Primary goal: complete the marathon</li>
+      <li>Success style: finish comfortably</li>
+      <li>Useful mindset: train for durability, not ego</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>The 4 parts of your year</h2>
+    <ol>
+      <li><strong>Base phase</strong> — make 3 to 4 runs per week feel normal and sustainable.</li>
+      <li><strong>Endurance build</strong> — gradually stretch your long run and overall weekly tolerance.</li>
+      <li><strong>Marathon-specific phase</strong> — practice longer efforts, pacing discipline, and fueling.</li>
+      <li><strong>Taper</strong> — reduce fatigue and arrive fresh for race day.</li>
+    </ol>
+    <p class="muted">You do not need to train hard all year. You need to train steadily all year.</p>
+  </div>
+
+  <div class="card">
+    <h2>Your main weekly ingredients</h2>
+    <ul>
+      <li><strong>Easy run</strong> — builds aerobic fitness while keeping stress low.</li>
+      <li><strong>Quality run</strong> — a controlled harder session like hills, steady work, or tempo-lite.</li>
+      <li><strong>Long run</strong> — the key durability builder for marathon preparation.</li>
+      <li><strong>Optional extra easy run</strong> — helpful when recovery is good.</li>
+      <li><strong>Short home strength</strong> — keeps your body more resilient.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>What your normal week may look like</h2>
+    <p>Based on your schedule, a practical default week is:</p>
+    <ul>
+      <li>Monday — easy run or short support run</li>
+      <li>Thursday — quality run</li>
+      <li>Friday — easy run or optional run</li>
+      <li>Sunday — long run</li>
+    </ul>
+    <p class="muted">That structure is flexible. The goal is to fit training into real life, not pretend real life does not exist.</p>
+  </div>
+
+  <div class="card">
+    <h2>How hard should most running feel?</h2>
+    <p>Most runs should feel easier than many runners think.</p>
+    <ul>
+      <li><strong>Easy runs:</strong> conversational, controlled, relaxed</li>
+      <li><strong>Quality runs:</strong> purposeful, but not all-out</li>
+      <li><strong>Long runs:</strong> patient early, steady late</li>
+    </ul>
+    <div class="tip">
+      <p>If you train too hard too often, you do not become tougher. You usually just become tired, inconsistent, or injured.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>What matters more than pace right now</h2>
+    <ul>
+      <li>showing up consistently</li>
+      <li>keeping easy days easy</li>
+      <li>gradually extending endurance</li>
+      <li>learning hydration and fueling before race day</li>
+      <li>staying healthy enough to train for months</li>
+    </ul>
+  </div>
+
+  <div class="card practice">
+    <h2>Mini scenario</h2>
+    <p>You miss one weekday run because work gets busy. What is the smart response?</p>
+    <ul>
+      <li>Option A: cram two hard runs back to back</li>
+      <li>Option B: accept the missed run and continue the plan calmly</li>
+    </ul>
+    <p class="phrase">Best answer: Option B.</p>
+    <p>Marathon training rewards consistency over heroics.</p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 1: Fill in the blank</h2>
+    <p>The main goal is to finish the marathon <strong>__________</strong> and healthy.</p>
+    <input id="answer1" placeholder="Type one word here">
+    <p><button class="check-btn" onclick="checkBlank()">Check answer</button></p>
+    <p id="result1" aria-live="polite"></p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 2: Short self-check</h2>
+    <ol>
+      <li>What is the purpose of the long run?</li>
+      <li>What kind of run should make up most of your training?</li>
+      <li>If life gets busy, what matters more: perfect execution or steady consistency?</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Simple answer key</h2>
+    <ul>
+      <li>Long run: build endurance and durability</li>
+      <li>Most training: easy running</li>
+      <li>When life is busy: steady consistency beats perfection</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Your takeaway</h2>
+    <p>You do not need a perfect year. You need a repeatable year.</p>
+    <p>Ask for Lesson 2 when you want it. A smart next lesson would be: <strong>Easy pace, effort, and how not to run too hard.</strong></p>
+  </div>
+
+  <script>
+    function normalize(value){
+      return value.toLowerCase().replace(/\s+/g,' ').trim();
+    }
+    function checkBlank(){
+      const value = normalize(document.getElementById('answer1').value);
+      const result = document.getElementById('result1');
+      if(value === 'comfortably'){
+        result.textContent = 'Correct — comfortably is the key word.';
+        result.className = 'success';
+      } else {
+        result.textContent = 'Suggested answer: comfortably.';
+        result.className = 'warn';
+      }
+    }
+  </script>
+</body>
+</html>
