@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marathon Lesson 0002: Easy pace, effort, and how not to run too hard</title>
+  <style>
+    :root{--bg:#f7faf7;--card:#ffffff;--ink:#1f2937;--accent:#166534;--soft:#dcfce7;--muted:#4b5563;--warn:#92400e;--ok:#14532d}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:40px auto;padding:0 20px;line-height:1.65;color:var(--ink);background:var(--bg)}
+    h1,h2,h3{color:#14532d}
+    .card{background:var(--card);border:1px solid var(--soft);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+    .phrase{font-size:1.15rem;font-weight:700}
+    .muted{color:var(--muted)}
+    .practice{background:#f0fdf4}
+    .tip{background:#fffbeb;border-left:4px solid #f59e0b;padding:14px 16px;border-radius:10px}
+    .success{color:var(--ok);font-weight:700}
+    .warn{color:var(--warn);font-weight:700}
+    .check-btn{background:var(--accent);color:white;border:none;border-radius:10px;padding:10px 14px;cursor:pointer;margin-top:8px}
+    input{padding:10px;border:1px solid #d1d5db;border-radius:10px;width:100%;max-width:420px}
+    a{color:#166534}
+    code{background:#ecfdf5;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Marathon Lesson 0002: Easy pace, effort, and how not to run too hard</h1>
+  <p>This lesson teaches one of the most important marathon skills: controlling effort. A lot of runners do not fail because they are lazy. They fail because they turn too many normal runs into sneaky hard runs.</p>
+
+  <div class="card">
+    <h2>Your objective for today</h2>
+    <p>Learn how easy running should feel, how to notice when you are drifting too hard, and how to adjust without ego.</p>
+    <p class="phrase">Easy days must actually feel easy.</p>
+  </div>
+
+  <div class="card">
+    <h2>Why this matters so much</h2>
+    <p>Marathon training works best when the different types of runs do different jobs.</p>
+    <ul>
+      <li><strong>Easy runs</strong> build aerobic fitness with manageable stress.</li>
+      <li><strong>Harder runs</strong> add a controlled training signal when you are ready for it.</li>
+      <li><strong>Long runs</strong> build durability and patience.</li>
+    </ul>
+    <p>If too many runs drift into the middle, you often get tired enough to limit progress, but not purposeful enough to gain the right benefit.</p>
+  </div>
+
+  <div class="card">
+    <h2>What easy pace really feels like</h2>
+    <ul>
+      <li>You can speak in full sentences.</li>
+      <li>Your breathing is calm and under control.</li>
+      <li>You feel like you could keep going longer.</li>
+      <li>You are not trying to prove fitness.</li>
+    </ul>
+    <div class="tip">
+      <p>Easy pace often feels slower than your ego expects. That is normal. Slow enough is smart enough.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Three simple ways to control effort</h2>
+    <ol>
+      <li><strong>Talk test first</strong> — if speaking in full sentences is not comfortable, slow down.</li>
+      <li><strong>Breathing check</strong> — if your breathing gets strained early, back off.</li>
+      <li><strong>Watch second</strong> — pace and heart rate can help, but they should support effort, not override it.</li>
+    </ol>
+    <p class="muted">Heat, hills, poor sleep, stress, and accumulated fatigue can all make the same pace cost more.</p>
+  </div>
+
+  <div class="card">
+    <h2>Common traps that make runners go too hard</h2>
+    <ul>
+      <li>chasing a watch pace from a cooler or fresher day</li>
+      <li>turning every run into a quiet competition</li>
+      <li>speeding up because the first 10 minutes feel easy</li>
+      <li>believing slower easy running means weaker fitness</li>
+      <li>refusing to adjust for warm weather or stress</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>What to do in the moment</h2>
+    <p>If you notice an easy run is turning into work:</p>
+    <ul>
+      <li>slow down right away</li>
+      <li>ignore pace for a few minutes</li>
+      <li>reset around breathing and conversation feel</li>
+      <li>if needed, shorten the run slightly and protect recovery</li>
+    </ul>
+    <p class="phrase">Adjusting early is disciplined, not weak.</p>
+  </div>
+
+  <div class="card">
+    <h2>Mini scenario</h2>
+    <p>It is a warm morning. Your watch shows a pace that usually feels easy, but today your breathing is already more active than normal after 15 minutes.</p>
+    <ul>
+      <li>Option A: force the same pace because the plan said easy run</li>
+      <li>Option B: slow down until the effort becomes easy again</li>
+    </ul>
+    <p class="phrase">Best answer: Option B.</p>
+    <p>The plan is about the right training stress, not a magical number on the watch.</p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 1: Fill in the blank</h2>
+    <p>On an easy run, you should usually be able to speak in full <strong>__________</strong>.</p>
+    <input id="answer1" placeholder="Type one word here">
+    <p><button class="check-btn" onclick="checkBlank()">Check answer</button></p>
+    <p id="result1" aria-live="polite"></p>
+  </div>
+
+  <div class="card practice">
+    <h2>Quiz 2: Short self-check</h2>
+    <ol>
+      <li>If heat makes your usual pace feel harder, what should you adjust first: effort or pace target?</li>
+      <li>Why is running too hard on easy days a problem?</li>
+      <li>What is one sign that your easy run is no longer easy?</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Simple answer key</h2>
+    <ul>
+      <li>Adjust effort first; pace can change.</li>
+      <li>Because it adds unnecessary fatigue and can hurt consistency.</li>
+      <li>Examples: cannot speak comfortably, breathing is strained, legs feel heavy unusually early.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Your takeaway</h2>
+    <p>One of the smartest marathon habits is learning not to impress yourself on ordinary days.</p>
+    <p>Use the quick reference page here: <a href="../reference/0001-effort-zones-and-easy-pace-cheat-sheet.html">Effort zones and easy pace cheat sheet</a>.</p>
+    <p>Ask follow-up questions any time if you want help judging your own easy pace from recent runs.</p>
+  </div>
+
+  <script>
+    function normalize(value){
+      return value.toLowerCase().replace(/\s+/g,' ').trim();
+    }
+    function checkBlank(){
+      const value = normalize(document.getElementById('answer1').value);
+      const result = document.getElementById('result1');
+      if(value === 'sentences' || value === 'sentence'){
+        result.textContent = 'Correct — sentences is the key idea.';
+        result.className = 'success';
+      } else {
+        result.textContent = 'Suggested answer: sentences.';
+        result.className = 'warn';
+      }
+    }
+  </script>
+</body>
+</html>
