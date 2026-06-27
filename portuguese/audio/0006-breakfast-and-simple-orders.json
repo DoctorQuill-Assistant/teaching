@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "lesson": "0006-breakfast-and-simple-orders",
+  "language": "pt-PT",
+  "provider": "piper",
+  "voice": "pt_PT-tugão-medium",
+  "clips": [
+    {
+      "id": "para-mim",
+      "text": "Para mim.",
+      "file": "0006-breakfast-and-simple-orders/para-mim.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "para-mim-uma-torrada",
+      "text": "Para mim, uma torrada.",
+      "file": "0006-breakfast-and-simple-orders/para-mim-uma-torrada.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "para-mim-um-sumo-de-laranja",
+      "text": "Para mim, um sumo de laranja.",
+      "file": "0006-breakfast-and-simple-orders/para-mim-um-sumo-de-laranja.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "queria-um-cafe-por-favor",
+      "text": "Queria um café, por favor.",
+      "file": "0006-breakfast-and-simple-orders/queria-um-cafe-por-favor.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "queria-uma-torrada-com-manteiga",
+      "text": "Queria uma torrada com manteiga.",
+      "file": "0006-breakfast-and-simple-orders/queria-uma-torrada-com-manteiga.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "e-para-beber",
+      "text": "E para beber?",
+      "file": "0006-breakfast-and-simple-orders/e-para-beber.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "e-tudo-obrigado",
+      "text": "É tudo, obrigado.",
+      "file": "0006-breakfast-and-simple-orders/e-tudo-obrigado.mp3",
+      "section": "core-phrases"
+    },
+    {
+      "id": "bom-dia",
+      "text": "Bom dia.",
+      "file": "0006-breakfast-and-simple-orders/bom-dia.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "e-para-comer",
+      "text": "E para comer?",
+      "file": "0006-breakfast-and-simple-orders/e-para-comer.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "mais-alguma-coisa",
+      "text": "Mais alguma coisa?",
+      "file": "0006-breakfast-and-simple-orders/mais-alguma-coisa.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "com-licenca",
+      "text": "Com licença.",
+      "file": "0006-breakfast-and-simple-orders/com-licenca.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "sim",
+      "text": "Sim?",
+      "file": "0006-breakfast-and-simple-orders/sim.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "para-mim-um-sumo-de-laranja-e-uma-torrada-por-favor",
+      "text": "Para mim, um sumo de laranja e uma torrada, por favor.",
+      "file": "0006-breakfast-and-simple-orders/para-mim-um-sumo-de-laranja-e-uma-torrada-por-favor.mp3",
+      "section": "mini-dialogue"
+    },
+    {
+      "id": "claro",
+      "text": "Claro.",
+      "file": "0006-breakfast-and-simple-orders/claro.mp3",
+      "section": "mini-dialogue"
+    }
+  ]
+}
