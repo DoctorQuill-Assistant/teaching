@@ -25,21 +25,21 @@ Recover well from the half marathon, restart gently from Friday onward, and fini
 - Tuesday: Full rest or short easy walk only.
 - Wednesday: Full rest.
 - Thursday: Full rest. Optional light walk or mobility only.
-- Friday: 30–35 min very easy run at relaxed conversational effort. No strides. Stop early if the legs still feel flat or heavy.
-- Saturday: 45–55 min easy run only if Friday went well and the body feels normal enough. Keep this controlled and comfortable.
-- Sunday: Rest day or 25–35 min very easy recovery run or walk depending on how Saturday felt.
+- Friday: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142. A bit quicker than ideal for a restart, but overall a successful comeback run.
+- Saturday: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133. Better controlled aerobic run and a good recovery signal.
+- Sunday: 25–35 min very easy recovery run is reasonable because the legs feel good. Keep it relaxed, and choose rest instead if the legs feel worse in the morning.
 
 ## Daily pull format
 - Monday run: Full rest after the half marathon. Optional easy walking only.
 - Tuesday run: Full rest or short easy walk only.
 - Wednesday run: Full rest.
 - Thursday run: Full rest. Optional light walk or mobility only.
-- Friday run: 30–35 min very easy run. No strides. Stop early if the legs still feel flat or heavy.
-- Saturday run: 45–55 min easy run only if Friday went well and you feel normal enough.
-- Sunday run: Rest day or 25–35 min very easy recovery run or walk depending on how Saturday felt.
+- Friday run: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142.
+- Saturday run: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133.
+- Sunday run: 25–35 min very easy recovery run. Keep it relaxed, and switch to rest if the legs feel worse in the morning.
 
 ## Coaching notes
 - Post-race fatigue after a hard half marathon is normal, especially with TE 5.0 and a hilly route.
 - Do not try to recover missed training by squeezing extra work into this weekend.
-- The first goal is to feel smooth again, not fit again.
-- If Friday still feels worse than expected, replace the run with a walk and resume next week.
+- Friday was slightly brisk for a restart, but Saturday was much better controlled.
+- Sunday should stay easy enough that you finish feeling fresher, not more depleted.
