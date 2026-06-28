@@ -27,7 +27,7 @@ Recover well from the half marathon, restart gently from Friday onward, and fini
 - Thursday: Full rest. Optional light walk or mobility only.
 - Friday: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142. A bit quicker than ideal for a restart, but overall a successful comeback run.
 - Saturday: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133. Better controlled aerobic run and a good recovery signal.
-- Sunday: 25–35 min very easy recovery run is reasonable because the legs feel good. Keep it relaxed, and choose rest instead if the legs feel worse in the morning.
+- Sunday: Completed — rest day. The user felt tired, mainly because of the heat, so choosing rest was the correct call.
 
 ## Daily pull format
 - Monday run: Full rest after the half marathon. Optional easy walking only.
@@ -36,10 +36,10 @@ Recover well from the half marathon, restart gently from Friday onward, and fini
 - Thursday run: Full rest. Optional light walk or mobility only.
 - Friday run: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142.
 - Saturday run: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133.
-- Sunday run: 25–35 min very easy recovery run. Keep it relaxed, and switch to rest if the legs feel worse in the morning.
+- Sunday run: Completed — rest day because of fatigue and heat.
 
 ## Coaching notes
 - Post-race fatigue after a hard half marathon is normal, especially with TE 5.0 and a hilly route.
 - Do not try to recover missed training by squeezing extra work into this weekend.
 - Friday was slightly brisk for a restart, but Saturday was much better controlled.
-- Sunday should stay easy enough that you finish feeling fresher, not more depleted.
+- Choosing rest in heat when tired is good training judgment, not failure.
