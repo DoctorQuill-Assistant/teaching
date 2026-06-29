@@ -1,45 +1,42 @@
 # Marathon current week plan
 
-Week of 2026-06-22
+Week of 2026-06-29
 
 This is the current source-of-truth week file for the marathon plan.
 It is intended to be human-readable in the repo and easy for daily reminders to reference.
 
 ## Context for this week
-The user raced a half marathon on 2026-06-20:
-- Distance: 21.50 km
-- Time: 2:05:38
-- Average pace: 5:51 / km
-- Average HR: 153
-- Max HR: 171
-- Aerobic TE: 5.0
-- Elevation gain: 197 m
+The user is coming off:
+- a half marathon on 2026-06-20
+- a very tired recovery period the following week
+- two comeback runs on Friday and Saturday
+- a rest day on Sunday because of fatigue and heat
 
-The user was still very exhausted afterward and took a full break through Thursday. Training rest this week is appropriate and does not need to be "made up."
+This week should re-establish normal rhythm without forcing volume too quickly.
 
 ## Weekly objective
-Recover well from the half marathon, restart gently from Friday onward, and finish the week feeling better rather than digging a deeper hole.
+Return to consistent training with 3 runs this week, keep the effort controlled, and rebuild momentum without chasing missed work.
 
 ## Day-by-day plan
-- Monday: Full rest after the half marathon. Optional easy walking only.
-- Tuesday: Full rest or short easy walk only.
-- Wednesday: Full rest.
-- Thursday: Full rest. Optional light walk or mobility only.
-- Friday: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142. A bit quicker than ideal for a restart, but overall a successful comeback run.
-- Saturday: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133. Better controlled aerobic run and a good recovery signal.
-- Sunday: Completed — rest day. The user felt tired, mainly because of the heat, so choosing rest was the correct call.
+- Monday: Rest day or 20–30 min easy walk. Use this as a reset after the warm, fatiguing weekend.
+- Tuesday: 40–45 min easy run at relaxed conversational effort.
+- Wednesday: Rest day.
+- Thursday: 35–45 min easy run with 4 x short relaxed strides only if the legs feel good.
+- Friday: Rest day or 15–20 min easy home strength.
+- Saturday: 75 min long run at easy, patient effort. Start calmly.
+- Sunday: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
 
 ## Daily pull format
-- Monday run: Full rest after the half marathon. Optional easy walking only.
-- Tuesday run: Full rest or short easy walk only.
-- Wednesday run: Full rest.
-- Thursday run: Full rest. Optional light walk or mobility only.
-- Friday run: Completed — 6.14 km in 32:27 at 5:17 / km, average HR 142.
-- Saturday run: Completed — 8.55 km in 51:04 at 5:58 / km, average HR 133.
-- Sunday run: Completed — rest day because of fatigue and heat.
+- Monday run: Rest day or 20–30 min easy walk.
+- Tuesday run: 40–45 min easy run.
+- Wednesday run: Rest day.
+- Thursday run: 35–45 min easy run with 4 short relaxed strides only if the legs feel good.
+- Friday run: Rest day or 15–20 min easy home strength.
+- Saturday run: 75 min long run at easy, patient effort.
+- Sunday run: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
 
 ## Coaching notes
-- Post-race fatigue after a hard half marathon is normal, especially with TE 5.0 and a hilly route.
-- Do not try to recover missed training by squeezing extra work into this weekend.
-- Friday was slightly brisk for a restart, but Saturday was much better controlled.
-- Choosing rest in heat when tired is good training judgment, not failure.
+- Keep easy runs easy enough that heat and fatigue stay manageable.
+- If the weather is very hot, shorten the run and slow down early.
+- The goal this week is rhythm, not proving fitness.
+- Long run goal: finish in control and feel able to recover normally after it.
