@@ -18,8 +18,8 @@ This week should re-establish normal rhythm without forcing volume too quickly.
 Return to consistent training with 3 runs this week, keep the effort controlled, and rebuild momentum without chasing missed work.
 
 ## Day-by-day plan
-- Monday: Rest day or 20–30 min easy walk. Use this as a reset after the warm, fatiguing weekend.
-- Tuesday: 40–45 min easy run at relaxed conversational effort.
+- Monday: Completed — 3.57 km in 20:00 at 5:37 / km, average HR 133. This replaced the planned easy walk and was a small, controlled run.
+- Tuesday: Completed — 4.25 km in 30:46 at 7:14 / km, average HR 113. Very light aerobic running and a sensible low-stress day.
 - Wednesday: Rest day.
 - Thursday: 35–45 min easy run with 4 x short relaxed strides only if the legs feel good.
 - Friday: Rest day or 15–20 min easy home strength.
@@ -27,8 +27,8 @@ Return to consistent training with 3 runs this week, keep the effort controlled,
 - Sunday: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
 
 ## Daily pull format
-- Monday run: Rest day or 20–30 min easy walk.
-- Tuesday run: 40–45 min easy run.
+- Monday run: Completed — 3.57 km in 20:00 at 5:37 / km, average HR 133.
+- Tuesday run: Completed — 4.25 km in 30:46 at 7:14 / km, average HR 113.
 - Wednesday run: Rest day.
 - Thursday run: 35–45 min easy run with 4 short relaxed strides only if the legs feel good.
 - Friday run: Rest day or 15–20 min easy home strength.
@@ -36,7 +36,8 @@ Return to consistent training with 3 runs this week, keep the effort controlled,
 - Sunday run: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
 
 ## Coaching notes
+- Monday became a short run instead of a walk, which was acceptable because the load stayed modest.
+- Tuesday was genuinely easy by heart rate and training effect, which is a good sign after the recent fatigue.
 - Keep easy runs easy enough that heat and fatigue stay manageable.
-- If the weather is very hot, shorten the run and slow down early.
 - The goal this week is rhythm, not proving fitness.
 - Long run goal: finish in control and feel able to recover normally after it.
