@@ -23,8 +23,8 @@ Return to consistent training with 3 runs this week, keep the effort controlled,
 - Wednesday: Rest day.
 - Thursday: Completed — rest day because of the office day schedule.
 - Friday: Completed — 8.07 km in 41:02 at 5:05 / km, average HR 142. This was stronger than a typical easy day and more like a steady aerobic run.
-- Saturday: 75 min long run at easy, patient effort. Start calmly, and keep it gentler than Friday’s run.
-- Sunday: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
+- Saturday: Completed — 14.51 km in 1:18:35 at 5:25 / km, average HR 141. This was a solid long run and a bit stronger than ideal, but still controlled overall.
+- Sunday: 20–30 min very easy recovery run only if the legs feel decent; otherwise easy walk or rest.
 
 ## Daily pull format
 - Monday run: Completed — 3.57 km in 20:00 at 5:37 / km, average HR 133.
@@ -32,13 +32,13 @@ Return to consistent training with 3 runs this week, keep the effort controlled,
 - Wednesday run: Rest day.
 - Thursday run: Completed — rest day because of the office day schedule.
 - Friday run: Completed — 8.07 km in 41:02 at 5:05 / km, average HR 142.
-- Saturday run: 75 min long run at easy, patient effort. Keep it gentler than Friday’s run.
-- Sunday run: 30–40 min very easy recovery run or easy walk depending on how Saturday felt.
+- Saturday run: Completed — 14.51 km in 1:18:35 at 5:25 / km, average HR 141.
+- Sunday run: 20–30 min very easy recovery run only if the legs feel decent; otherwise easy walk or rest.
 
 ## Coaching notes
 - Monday became a short run instead of a walk, which was acceptable because the load stayed modest.
 - Tuesday was genuinely easy by heart rate and training effect, which was a good sign after the recent fatigue.
-- Friday was stronger than planned for an easy day, so Saturday should stay controlled rather than drifting into another moderate effort.
+- Friday was stronger than planned for an easy day.
+- Saturday was a successful long run, but because Friday was already fairly solid, Sunday should stay truly gentle.
 - Keep easy runs easy enough that heat and fatigue stay manageable.
 - The goal this week is rhythm, not proving fitness.
-- Long run goal: finish in control and feel able to recover normally after it.
